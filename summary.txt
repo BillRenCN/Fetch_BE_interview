@@ -4,7 +4,7 @@ I opted to develop this project using Python and utilized the Flask library for 
 
 2. What are the advantages and disadvantages of your solution?
 
-The key advantage of my solution lies in its lightweight nature, making it straightforward to maintain. However, there are some drawbacks to consider: Firstly, it's written in Python, which might not be as fast as if it were written in C++. Secondly, it lacks direct access to a database or the creation of a lightweight database, which means it doesn't fully meet the requirements of a true RAFT system. Lastly, when dealing with larger datasets, it could pose maintenance challenges.
+The key advantage of my solution lies in its lightweight nature, making it straightforward to maintain. However, there are some drawbacks to consider: Firstly, it's written in Python, which might not be as fast as if it were written in C++. Secondly, it lacks direct access to a database or the creation of a lightweight database, which means it doesn't fully meet the requirements of a true REST system. Lastly, when dealing with larger datasets, it could pose maintenance challenges.
 
 3. What's been your favorite school or personal project so far, and what challenges did it present?
 
