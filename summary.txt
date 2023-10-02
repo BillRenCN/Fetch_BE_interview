@@ -1,0 +1,13 @@
+1. Why did you choose the tools, libraries, and language for the coding exercise?
+
+I opted to develop this project using Python and utilized the Flask library for it. To debug the project, I employed Postman. The choice of Python was driven by its versatility in handling network protocols and its ease of setting up a backend using the Flask library. I selected Flask because of its built-in development server and efficient debugger, and it's known for being lightweight.
+
+2. What are the advantages and disadvantages of your solution?
+
+The key advantage of my solution lies in its lightweight nature, making it straightforward to maintain. However, there are some drawbacks to consider: Firstly, it's written in Python, which might not be as fast as if it were written in C++. Secondly, it lacks direct access to a database or the creation of a lightweight database, which means it doesn't fully meet the requirements of a true RAFT system. Lastly, when dealing with larger datasets, it could pose maintenance challenges.
+
+3. What's been your favorite school or personal project so far, and what challenges did it present?
+
+One of my most cherished school projects comes from my Artificial Intelligence course, where I implemented the Viterbi algorithm for a Hidden Markov Model. This algorithm predicts the next character input and word predictions. I'm particularly fond of it because the Viterbi algorithm is quite intricate yet elegantly designed. To tackle its complexity, I broke it down into smaller components, subjecting each to rigorous unit testing as I progressed. In the end, I managed to implement the entire 300-line algorithm with efficiency and without any bugs, which is why it's a personal favorite.
+
+Another noteworthy personal project is from Berkeley's CS61B course, called Gitlet. It's essentially a simplified version of Git, written in Java. This project significantly enhanced my understanding of both Java and data structures. The main challenge here was comprehending the entire project and grasping the intricacies of various data structures involved.
